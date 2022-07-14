@@ -20,7 +20,7 @@ function App() {
           <img src={logo} className="App-logo" alt="logo" />
         </div>
         <p>
-          <code>Mais um projeto desenvolvido em ReactJS.</code>.
+          <code>Mais um projetinho desenvolvido em ReactJS.</code>.
         </p>
         <p>Academia Avanade +50</p>
         <a
